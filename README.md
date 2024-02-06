@@ -5,4 +5,4 @@ RMSLE = 0.13133 (on test set)
 
 This took me about 38 hours.
 
-Python libraries used: scikit-learn, pandas, numpy, matplotlib, xgboost, seaborn, eli5
+Python libraries used: scikit-learn, xgboost, pandas, numpy, matplotlib, seaborn, eli5
